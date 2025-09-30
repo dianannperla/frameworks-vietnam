@@ -14,4 +14,5 @@ class AppComponent {}
 })
 class AppModule {}
 
+module.exports = { AppModule }; 
 platformBrowserDynamic().bootstrapModule(AppModule);
