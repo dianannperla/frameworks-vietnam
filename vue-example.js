@@ -1,4 +1,4 @@
 new Vue({
     el: '#vue-example',
-    template: '<h2>Đây là ví dụ mã Vue!</h2>'
+    template: '<h2>This is a Vue.js example!</h2>'
 });
